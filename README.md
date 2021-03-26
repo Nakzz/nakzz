@@ -4,7 +4,7 @@
 
 I am AJ. 
 
-I'm a <strong>Software Engineer</strong>, an <strong>Entrepreneur...</strong>.
+I'm a <strong>Software Engineer</strong>, an <strong>Entrepreneur.strong>
 
 - 🔭 I’m currently working on my [personal website](https://naqib.info)
 - 👯 I’m looking to collaborate on machine learning projects
